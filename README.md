@@ -1,2 +1,8 @@
-# ig
-Instagram bot
+# igbot-PHP
+Instagram bot using php
+
+```sh
+pkg install git
+pkg install php
+git clone https://github.com/rvrvld/fft && cd igbot
+```
